@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>salesforceloginsbysynebo-chrome</id>
+    <version>1.0.0</version>
+    <title>[[PackageName]] (Install)</title>
+    <authors>PagoNxt Infrastructure</authors>
+    <owners>PagoNxt Infrastructure</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Install the Salesforce Logins by Synebo extension for Chrome</description>
+    <tags>salesforceloginsbysynebo-chrome admin</tags>
+  </metadata>
+</package>
