@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>sfdx-cli</id>
+    <version>6.0.17</version>
+    <title>Salesforce.com SFDX CLI</title>
+    <authors>zcassels</authors>
+    <owners>zcassels</owners>
+    <licenseUrl>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html</licenseUrl>
+    <projectUrl>https://github.com/zcassels/sfdx-chocolatey-installer</projectUrl>
+    <iconUrl>https://cdn.rawgit.com/zcassels/sfdx-chocolatey-installer/a4937108/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Salesforce SFDX CLI (https://developer.salesforce.com/tools/sfdxcli) is tool for developing and testing Force.com applications.</description>
+    <summary>Installer/Uninstaller for Salesforce SFDX CLI</summary>
+    <releaseNotes>Initial Release</releaseNotes>
+    <tags>sfdx admin force.com force dx</tags>
+    <projectSourceUrl>https://developer.salesforce.com/tools/sfdxcli</projectSourceUrl>
+    <packageSourceUrl>https://github.com/zcassels/sfdx-chocolatey-installer</packageSourceUrl>
+  </metadata>
+</package>

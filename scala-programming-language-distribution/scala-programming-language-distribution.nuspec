@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>scala-programming-language-distribution</id>
+    <version>2.11.12</version>
+    <title>Scala Programming Language Distr.</title>
+    <authors>PagoNXT Solutions Infra</authors>
+    <owners>PagoNXT Solutions Infra</owners>
+    <projectUrl>https://www.scala-lang.org/</projectUrl>
+    <iconUrl>https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Scala Programming Language</description>
+    <summary>Scala Programming Language</summary>
+    <releaseNotes>Initial Release</releaseNotes>
+    <tags>scala scala-programming-language-distribution</tags>
+  </metadata>
+</package>
